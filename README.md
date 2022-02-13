@@ -8,7 +8,7 @@
 [![Twitter: Nishant](https://img.shields.io/twitter/follow/Mnishant458?label=Follow)](https://twitter.com/Mnishant458)
 [![GitHub Nishant](https://img.shields.io/badge/GitHub-1000?label=Dev-Defire&logo=github&logoColor=white)](https://github.com/Dev-DeFire)
 [![Gmail Nishant](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mnishant458@gmail.com)
-[![Linkedin: Nishant](https://img.shields.io/badge/LinkedIn-0077B5?label=sharda&style=Nishant&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-nitin-mishra-bb2a7420b/)
+[![Linkedin: Nishant](https://img.shields.io/badge/LinkedIn-0077B5?label=Nishant&style=Nishant&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-nitin-mishra-bb2a7420b/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
 
