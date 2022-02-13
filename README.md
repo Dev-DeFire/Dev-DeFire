@@ -1,5 +1,5 @@
 <h2><img src="https://media.giphy.com/media/l1BgRvzvyk92jcQ9O/giphy.gif" width="50">  Hello, Nishant Nitin Mishra here!! </h2>
-<h4>Android and Web Developer as well as Tech Enthusiast</h4>
+<h3>Android and Web Developer as well as Tech Enthusiast</h3>
 <p><em>Currently pursuing B.Tech in Electronics and Communication Engineering at <a href="https://www.nitmz.ac.in/">NIT Mizoram</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Open to collaborate on projects within my field of Interest</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
